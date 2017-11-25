@@ -8,4 +8,3 @@
 08 https://geekbrains-storage.s3.eu-central-1.amazonaws.com/assets/000/129/172/4176ab44f2f5b4f2b9818d33b6cc209a4da09ce3.mp4 https://geekbrains-storage.s3.eu-central-1.amazonaws.com/assets/000/129/203/fa8a586ba57eb816124769f4ce113ffce4b7d3cf.pdf
 09 https://geekbrains-storage.s3.eu-central-1.amazonaws.com/assets/000/129/182/223367218fc3455e984e3976042cd2b132f1f33e.mp4 https://geekbrains-storage.s3.eu-central-1.amazonaws.com/assets/000/129/204/a4f7cb41466570b286df082be8a4e4d3710a2257.pdf
 10 https://geekbrains-storage.s3.eu-central-1.amazonaws.com/assets/000/129/190/c5ae33d3182bfbe53a8c17d8250b37b84372fe38.mp4 https://geekbrains-storage.s3.eu-central-1.amazonaws.com/assets/000/129/205/f97e8d96eb498fa1458465fb6d5d5e3ac55fe24c.pdf
-11
